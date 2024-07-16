@@ -1,0 +1,34 @@
+[MysqlGame]
+dbName = "game"
+user = "root"
+passwd = "430022"
+port = "3306"
+host = "192.168.0.254"
+
+[MysqlNdb]
+dbName = "ndb"
+user = "root"
+passwd = "430022"
+port = "3306"
+host = "192.168.0.254"
+
+[MysqlPay]
+dbName  = "pay_sdk"
+user = "root"
+passwd = "430022"
+port = "3306"
+host = "192.168.0.254"
+
+[MysqlLog]
+dbName  = "logdb"
+user = "root"
+passwd = "430022"
+port = "3306"
+host = "192.168.0.254"
+
+[redis]
+host = "192.168.0.254"
+port = "6379"
+user = ""
+pwd = ""
+DB = 2
